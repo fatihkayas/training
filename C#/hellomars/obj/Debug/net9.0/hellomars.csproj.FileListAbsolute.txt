@@ -1,0 +1,15 @@
+/Users/fatih.yasar/training/C#/hellomars/bin/Debug/net9.0/hellomars
+/Users/fatih.yasar/training/C#/hellomars/bin/Debug/net9.0/hellomars.deps.json
+/Users/fatih.yasar/training/C#/hellomars/bin/Debug/net9.0/hellomars.runtimeconfig.json
+/Users/fatih.yasar/training/C#/hellomars/bin/Debug/net9.0/hellomars.dll
+/Users/fatih.yasar/training/C#/hellomars/bin/Debug/net9.0/hellomars.pdb
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.AssemblyInfoInputs.cache
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.AssemblyInfo.cs
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.csproj.CoreCompileInputs.cache
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.sourcelink.json
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.dll
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/refint/hellomars.dll
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.pdb
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/hellomars.genruntimeconfig.cache
+/Users/fatih.yasar/training/C#/hellomars/obj/Debug/net9.0/ref/hellomars.dll
