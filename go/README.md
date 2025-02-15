@@ -7,3 +7,7 @@ install go
 
 install an IDE
 
+# initialize our project 
+
+go mod init booking-app
+
