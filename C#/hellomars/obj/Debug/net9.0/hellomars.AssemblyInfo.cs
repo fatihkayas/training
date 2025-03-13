@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hellomars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8956957e1f082b9e372a82b3051962f5956508cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0f2f8fc21a44b0d6448e6e227c2b64da2ddd70")]
 [assembly: System.Reflection.AssemblyProductAttribute("hellomars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hellomars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

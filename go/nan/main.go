@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {        
 	var conferenceNAme = "Go conference"
+	conferenceTickets = 50
 
 	fmt.Println("Welcome to", conferenceNAme ,  "booking  application")  //
     fmt.Println("Get your tickets here to attend ") 
@@ -19,3 +20,4 @@ func main() {
 
 // variables names must be used  
 // imported packages must be used
+// constanst are like variables but their values cannot be changed
